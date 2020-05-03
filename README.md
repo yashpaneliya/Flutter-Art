@@ -13,4 +13,7 @@ Very Simple!!!
 - You have to upload image/video/GIF of your work in Art folder and edit the README file with the photo, link of DartPad or CodePen and your 
   GitHub profile link and date also.
   
-  
+1. Wallpaper-1
+     [Wallpaper-1](https://codepen.io/yashpaneliya/pen/bGVoRMB) by [Yash Paneliya](https://github.com/yashpaneliya) (03/05/2020)
+
+ <img src="/Art/wallpaper1.JPG" width=240> 
