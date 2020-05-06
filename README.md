@@ -16,4 +16,9 @@ Very Simple!!!
 1. Wallpaper-1
      [Wallpaper-1](https://codepen.io/yashpaneliya/pen/bGVoRMB) by [Yash Paneliya](https://github.com/yashpaneliya) (03/05/2020)
 
- <img src="/Art/wallpaper1.JPG" width=240> 
+<img src="/Art/wallpaper1.JPG" width=240>
+
+2. Wallpaper-2
+     [Wallpaper-2](https://codepen.io/yashpaneliya/pen/MWaEVqQ) by [Yash Paneliya](https://github.com/yashpaneliya) (06/05/2020)
+
+<img src="/Art/wallpaper2.JPG" width=240>
