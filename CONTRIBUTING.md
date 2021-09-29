@@ -11,6 +11,7 @@ First off, thank you for taking the time to contribute! 👍 🎉
  - Create a new folder with your github username
  - Add you code files inside that folder
  - Create a readme.md file inside the same folder and describe your work and put the screenshot or video in it.
+ - If you have your code on dartpad or codepen then you can also attach its link in readme file
  
 ### Create a Pull Request
 
